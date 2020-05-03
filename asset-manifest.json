@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AniChara/static/css/main.a38ac6e3.chunk.css",
+    "main.js": "/AniChara/static/js/main.b5c5d074.chunk.js",
+    "main.js.map": "/AniChara/static/js/main.b5c5d074.chunk.js.map",
+    "runtime-main.js": "/AniChara/static/js/runtime-main.4db57c9b.js",
+    "runtime-main.js.map": "/AniChara/static/js/runtime-main.4db57c9b.js.map",
+    "static/js/2.452d8407.chunk.js": "/AniChara/static/js/2.452d8407.chunk.js",
+    "static/js/2.452d8407.chunk.js.map": "/AniChara/static/js/2.452d8407.chunk.js.map",
+    "index.html": "/AniChara/index.html",
+    "precache-manifest.86d5615ea302c99db48020eefa90ecfe.js": "/AniChara/precache-manifest.86d5615ea302c99db48020eefa90ecfe.js",
+    "service-worker.js": "/AniChara/service-worker.js",
+    "static/css/main.a38ac6e3.chunk.css.map": "/AniChara/static/css/main.a38ac6e3.chunk.css.map",
+    "static/js/2.452d8407.chunk.js.LICENSE.txt": "/AniChara/static/js/2.452d8407.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4db57c9b.js",
+    "static/js/2.452d8407.chunk.js",
+    "static/css/main.a38ac6e3.chunk.css",
+    "static/js/main.b5c5d074.chunk.js"
+  ]
+}
